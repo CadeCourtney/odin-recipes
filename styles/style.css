@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+}
+
+li {
+    margin: 1em 0;
+}
+
+
